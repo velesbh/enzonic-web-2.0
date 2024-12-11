@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Mail, Shield, Book, Users, Code, Lock, RefreshCw, HelpCircle } from 'lucide-react'
+import { Shield, Book, Users, Code, Lock, RefreshCw, HelpCircle } from 'lucide-react'
 
 const sections = [
   {
